@@ -1,0 +1,44 @@
+{
+  "name": "Magical N Cute",
+  "version": "1.0.0",
+  "description": "A very nice and cute ",
+  "main": "bot.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelnicole/magicalncute.git"
+  },
+  "keywords": [
+    "cognitive",
+    "services",
+    "microsoft",
+    "twitter",
+    "bot",
+    "bot",
+    "cute"
+  ],
+  "author": "Rachel White",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rachelnicole/magicalncute.git/issues"
+  },
+  "homepage": "https://github.com/rachelnicole/magicalncute.git#readme",
+  "devDependencies": {
+    "gm": "^1.23.0",
+    "image-size": "^0.5.0",
+    "project-oxford": "^1.5.0",
+    "request": "^2.76.0",
+    "twit": "^2.2.5"
+  },
+  "dependencies": {
+    "async": "^2.1.2",
+    "image-size": "^0.5.0",
+    "tmp": "0.0.30",
+    "twit": "^2.2.5",
+    "gm": "^1.23.0",
+    "project-oxford": "^1.5.0",
+    "request": "^2.76.0"
+  }
+}
